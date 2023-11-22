@@ -1,4 +1,4 @@
-import MainSlider from "@/components/main/swap/swap";
+import MainSlider from "@/components/main/trade/trade";
 import { Container } from "@mui/material";
 import * as React from "react";
 
